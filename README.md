@@ -26,6 +26,7 @@ $ npm install
 
 * [HTML 5] - https://dev.w3.org/html5/html-author/
 * [CSS 3] - https://devdocs.io/css/
+* [GULP.JS] - https://gulpjs.com/
 
 # Árvore do Projeto
 
@@ -52,7 +53,6 @@ $ npm install
 6 - index.html
 7 - package-lock.json
 8 - package.json
-
 
 ```
 Para visualizar a página publicada: 
