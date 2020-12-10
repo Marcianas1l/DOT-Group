@@ -1,6 +1,6 @@
 # Teste-FrontEndJr
 
-# Projeto desenvolvido utilizando HTML5, CSS3 e finalizado com o otimizador de tarefas Gulp :white_check_mark
+# Projeto desenvolvido utilizando HTML5, CSS3 e finalizado com o otimizador de tarefas Gulp :white_check_mark:
 
 # # Requisitos
 
@@ -22,7 +22,7 @@ $ npm install
 * Inicie o servidor: $ live-server
 * Selecione o arquivo index.html 
 
-# Técnologias utilizadas :books
+# Técnologias utilizadas :books:
 
 * [HTML 5] - https://dev.w3.org/html5/html-author/
 * [CSS 3] - https://devdocs.io/css/
