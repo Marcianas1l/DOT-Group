@@ -1,6 +1,6 @@
 # Teste-FrontEndJr
 
-# Projeto em desenvolvimento utilizando HTML5, CSS3 e finalizado com o otimizador de tarefas Gulp
+# Projeto desenvolvido utilizando HTML5, CSS3 e finalizado com o otimizador de tarefas Gulp
 
 # # Requisitos
 
