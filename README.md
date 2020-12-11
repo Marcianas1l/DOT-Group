@@ -1,4 +1,4 @@
-# Teste-FrontEndJr
+# Dot-Group
 
 # Projeto desenvolvido utilizando HTML5, CSS3 e finalizado com o otimizador de tarefas Gulp :white_check_mark:
 
@@ -31,7 +31,7 @@ $ npm install
 # Árvore do Projeto
 
 ```
-./Teste-FrontEndJr
+./Dot-Group
 1 - /dev
 1.1 - /imagens
 1.1.1.1 - floresta-banner.png
