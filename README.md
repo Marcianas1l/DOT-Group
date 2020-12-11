@@ -57,7 +57,7 @@ $ npm install
 ```
 Para visualizar a página publicada: 
 
-https://marcianas1l.github.io/Teste-FrontEndJr/
+https://marcianas1l.github.io/DOT-Group/
 
 # Contato
 [E-mail] - ana18silva@gmail.com
