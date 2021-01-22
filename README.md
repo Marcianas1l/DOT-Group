@@ -30,7 +30,7 @@ $ npm install
 
 # Árvore do Projeto
 
-``
+```
 ./Dot-Group
 1 - /dev
 1.1 - /imagens
